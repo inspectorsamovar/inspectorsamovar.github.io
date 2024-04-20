@@ -1,0 +1,588 @@
+.right{
+    width:438px;
+    height:438px;
+    position: absolute;
+    margin-left:682px;
+    margin-right: 160px;
+    margin-top: 140px;
+    margin-bottom: 121px;
+}
+.logo1{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    margin-left: 160px;
+    margin-right: 1058px;
+    margin-top: 54px;
+    margin-bottom: 583px;
+}
+.mail-icon{
+    position: absolute;
+    width: 17px;
+    height: 12px;
+    margin-left: 1062px;
+    margin-right: 201px;
+    margin-top: 85px;
+    margin-bottom: 602px;
+}
+header{
+    position:absolute;
+    width: 100%;
+    height: 699px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 1483px;
+    background-color: rgb(34, 34, 34);
+    
+}
+.phone-icon{
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    margin-left: 1103px;
+    margin-right: 160px;
+    margin-top: 85px;
+    margin-bottom: 597px;
+}
+.nav1{
+    position: absolute;
+width: 72px;
+height: 16px;
+left: 284px;
+right: 924px;
+top: 85px;
+bottom: 598px;
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration: none;
+    
+}
+
+.nav2{
+    position: absolute;
+    width: 58px;
+    height: 17px;
+    left: 386px;
+    right: 836px;
+    top: 85px;
+    bottom: 597px;
+    
+    color: rgb(212, 212, 212);
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration: none;
+}
+.nav3{
+    position: absolute;
+width: 69px;
+height: 17px;
+left: 475px;
+right: 736px;
+top: 85px;
+bottom: 597px;
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+text-decoration: none;
+}
+.nav1:hover{
+    color:white;
+}
+.nav2:hover{
+    color:white;
+}
+.nav2:hover{
+    color:white;
+}
+.nav1:active{
+    color:white;
+}
+.nav2:active{
+    color:white;
+}
+.nav2:active{
+    color:white;
+}
+.moon{
+    position: absolute;
+    width: 238px;
+    height: 100px;
+    left: 286px;
+    right: 756px;
+    top: 229px;
+    bottom: 370px;
+    color: rgb(255, 255, 255);
+    font-family: Courier New;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.space{
+    position: absolute;
+    width: 254px;
+    height: 55px;
+    left: 286px;
+    right: 740px;
+    top: 361px;
+    bottom: 283px;
+
+    color: rgb(212, 212, 212);
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.btn{
+    position: absolute;
+    width: 240px;
+    height: 50px;
+    left: 285px;
+    right: -285px;
+    top: 470px;
+    bottom: -470px;
+    border-radius: 25px;
+    background: rgb(255, 203, 6);
+}
+.btn:hover{
+    background-color:white;
+}
+.btntxt{
+    position:absolute;
+    width: 240px;
+    height:25px;
+    padding-left:20px;
+    padding-top:2px;
+    color: rgb(0, 0, 0);
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration: none;
+}
+
+.arrow{
+    position: absolute;
+width: 19px;
+height: 16px;
+padding-left: 196px;
+padding-right: 25px;
+padding-top: 17px;
+padding-bottom: 17px;
+}
+.advantages{
+    position: absolute;
+    max-width: 100%;
+    height: 321px;
+    left: 0;
+    right: 0;
+    top: 699px;
+    bottom: 808px;
+    background: rgb(19, 19, 19);
+}
+.advantage1txt{
+    position: absolute;
+    width: 170px;
+    height: 55px;
+    left: 163px;
+    right: 947px;
+    top: 187px;
+    bottom: 79px;
+
+    color: rgb(212, 212, 212);
+    font-family: Verdana;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.advantage2txt{
+    position: absolute;
+width: 157px;
+height: 55px;
+left: 423px;
+right: 700px;
+top: 187px;
+bottom: 79px;
+
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.advantage3txt{
+    position: absolute;
+width: 150px;
+height: 55px;
+left: 682px;
+right: 448px;
+top: 187px;
+bottom: 79px;
+
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.advantage4txt{
+    position: absolute;
+width: 172px;
+height: 55px;
+left: 943px;
+right: 165px;
+top: 187px;
+bottom: 79px;
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.advantage1icon{
+    position: absolute;
+width: 60px;
+height: 68px;
+left: 163px;
+right: 1057px;
+top: 85px;
+bottom: 168px;
+}
+.advantage2icon{
+    position: absolute;
+width: 60px;
+height: 68px;
+left: 423px;
+right: 797px;
+top: 85px;
+bottom: 168px;
+}
+.advantage3icon{
+    position: absolute;
+width: 60px;
+height: 68px;
+left: 683px;
+right: 537px;
+top: 85px;
+bottom: 168px;
+}
+.advantage4icon{
+    position: absolute;
+width: 60px;
+height: 68px;
+left: 943px;
+right: 277px;
+top: 85px;
+bottom: 168px;
+}
+.content{
+    max-width:100%;
+    position: absolute;
+
+height: 808px;
+left: 0;
+right: 0;
+top: 1020px;
+bottom: 0;
+background: rgb(255, 255, 255);
+}
+.offerh2{
+    position: absolute;
+width: 375px;
+height: 85px;
+left: 679px;
+right: 226px;
+top: 85px;
+bottom: 638px;
+color: rgb(0, 0, 0);
+font-family: Courier New;
+font-size: 24px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+}
+.offerp{
+    position: absolute;
+width: 454px;
+height: 207px;
+left: 679px;
+right: 147px;
+top: 214px;
+bottom: 387px;
+color: rgb(0, 0, 0);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.rch2{
+    position: absolute;
+width: 346px;
+height: 27px;
+left: 679px;
+right: 255px;
+top: 478px;
+bottom: 303px;
+color: rgb(0, 0, 0);
+font-family: Courier New;
+font-size: 24px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+}
+.rcul{
+    position: absolute;
+width: 370px;
+height: 150px;
+left: 710px;
+right: 200px;
+top: 532px;
+bottom: 126px;
+
+color: rgb(0, 0, 0);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.lch2{
+    position: absolute;
+width: 375px;
+height: 27px;
+left: 160px;
+right: 745px;
+top: 478px;
+bottom: 303px;
+
+color: rgb(0, 0, 0);
+font-family: Courier New;
+font-size: 24px;
+font-weight: 700;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: left;
+}
+.lcul{
+    position: absolute;
+width: 424px;
+height: 150px;
+left: 191px;
+right: 665px;
+top: 532px;
+bottom: 126px;
+color: rgb(0, 0, 0);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+li{
+    color: rgb(255, 203, 6);
+}
+span{
+    color:black;
+}
+.map{
+    position: absolute;
+width: 440px;
+height: 346px;
+left: 160px;
+right: 680px;
+top: 80px;
+bottom: 382px;
+}
+footer{
+    position: absolute;
+width: 100%;
+height: 354px;
+left: 0;
+right: 0;
+top: 1828px;
+bottom: 0;
+
+background: rgb(19, 19, 19);
+}
+.logo2{
+    position: absolute;
+width: 60px;
+height: 60px;
+left: 160px;
+right: 1060px;
+top: 60px;
+bottom: 234px;
+}
+.sapcez{
+    position: absolute;
+width: 59px;
+height: 17px;
+left: 235px;
+right: 986px;
+top: 85px;
+bottom: 252px;
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.copyright{
+    position: absolute;
+width: 162px;
+height: 36px;
+left: 159px;
+right: 959px;
+top: 230px;
+bottom: 88px;
+color: rgb(85, 85, 85);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.comp{
+    position: absolute;
+width: 180px;
+height: 28px;
+left: 419.99px;
+top: 90px;
+border-bottom: 1px solid rgb(85, 85, 85);
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+padding-bottom:11px;
+}
+.cat{
+    position: absolute;
+width: 180px;
+height: 28px;
+left: 679px;
+top: 90px;
+border-bottom: 1px solid rgb(85, 85, 85);
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+padding-bottom:11px;
+}
+.cont{
+    position: absolute;
+width: 180px;
+height: 28px;
+left: 938px;
+top: 90px;
+border-bottom: 1px solid rgb(85, 85, 85);
+color: rgb(212, 212, 212);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+padding-bottom:11px;
+}
+.company{
+    position: absolute;
+width: 63px;
+height: 93px;
+left: 419px;
+right: 798px;
+top: 177px;
+bottom: 84px;
+
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+
+
+}
+.ac{
+    text-decoration:none;
+    color: rgb(136, 136, 136);
+}
+.ac:hover{
+    color:white;
+}
+.ac:active{
+    color:white;
+}
+.catalog{
+    position: absolute;
+width: 91px;
+height: 93px;
+left: 679px;
+right: 510px;
+top: 177px;
+bottom: 84px;
+color: rgb(136, 136, 136);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
+.contacts{
+    position: absolute;
+width: 131px;
+height: 93px;
+left: 938px;
+right: 211px;
+top: 177px;
+bottom: 84px;
+color: rgb(136, 136, 136);
+font-family: Verdana;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0%;
+text-align: left;
+}
